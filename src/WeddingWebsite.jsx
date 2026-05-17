@@ -392,7 +392,7 @@ const Timeline = () => (
               width: 1, background: `${C.olive}44`,
             }}/>
             {[
-              { title: "Obřad", time: "13:00", desc: "Budeme rádi, pokud dorazíte přibližně hodinu předem — už při příjezdu na vás bude čekat drobné občerstvení", first: true },
+              { title: "Obřad", time: "12:30", desc: "Budeme rádi, pokud dorazíte přibližně hodinu předem — už při příjezdu na vás bude čekat drobné občerstvení", first: true },
               { title: "Společné focení" },
               { title: "Oběd" },
               { title: "Hry · Krájení dortu · Volná zábava" },
