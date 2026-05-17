@@ -492,7 +492,7 @@ const Timeline = () => (
   </Section>
 );
 
-const VENUE_PHOTO = "/photos/venue.jpg";
+const VENUE_PHOTO = "/photos/Venue_2.png";
 
 const Travel = () => (
   <section id="travel" style={{
