@@ -351,13 +351,13 @@ const OurStory = () => (
       <PhotoSlideshow />
       <div>
         <p style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: "clamp(17px, 2.5vw, 20px)", lineHeight: 1.8, color: C.warmBrown, fontWeight: 300, padding: "0 8px", marginBottom: 16, textAlign: "justify" }}>
-          Všechno to začalo na jaře 2019 v naší oblíbené studovně v NTK. Monča se zrovna učila na zápočet z genetiky a Honza psal svoji bakalářku. Velký podíl na našem seznámení mají i Honzovi kamarádi, kteří ho nakonec donutili, aby k Monče přišel a dal se s ní do řeči. Během učení jsme prohodili jen pár vět, ale osudovou se nám stala až následná společná cesta metrem, po které Honza strávil zbytek večera na sítích zkoumáním všech „Monik z Olomouce, co studují 1. LF“, dokud nenašel ten správný profil.
+          Poznali jsme se na jaře 2019 v naší oblíbené studovně v NTK. Monča se učila na zápočet z genetiky, Honza psal bakalářku, a protože bylo plno, přisednul si ke stolu, kde Monča seděla se spolužačkou. Po několika hodinách učení a víc než pár vzájemných pohledech jsme se na konci dne dali do řeči. Ten večer Honza strávil hledáním mediček Monik z Olomouce a zbytek týdne v NTK, přestože tam původně chodit už neplánoval.
         </p>
         <p style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: "clamp(17px, 2.5vw, 20px)", lineHeight: 1.8, color: C.warmBrown, fontWeight: 300, padding: "0 8px", marginBottom: 16, textAlign: "justify" }}>
-          Od té doby jsme spolu zažili spoustu dobrodružství a krásných zážitků, ale i pár těch smutnějších chvil, které náš vztah ještě víc upevnily.
+          Náhoda tomu chtěla, že jsme se po pár dnech potkali znovu a tentokrát sdíleli i společnou cestu metrem. Od té doby jsme spolu zažili spoustu dobrodružství a krásných zážitků, ale i pár těch smutnějších chvil, které náš vztah ještě víc upevnily. 
         </p>
         <p style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: "clamp(17px, 2.5vw, 20px)", lineHeight: 1.8, color: C.warmBrown, fontWeight: 300, padding: "0 8px", textAlign: "justify"  }}>
-          V létě loňského roku jsme se zasnoubili pod naší oblíbenou ferratou u Lago di Garda. No a teď, o rok a něco později, se už moc těšíme, až naši svatbu oslavíte s námi!
+          V létě loňského roku jsme se zasnoubili na našem oblíbeném místě u Lago di Garda. No a teď, o rok a něco později, se už moc těšíme, až naši svatbu oslavíte s námi!
         </p>
       </div>
     </div>
