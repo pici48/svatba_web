@@ -397,7 +397,7 @@ const Timeline = () => (
               { title: "Společné focení" },
               { title: "Oběd" },
               { title: "Hry · Krájení dortu · Volná zábava" },
-              { title: "Večerní raut", time: "17:30" },
+              { title: "Večerní raut" },
               { title: "Večerní zábava", last: true },
             ].map((item, i) => (
               <div key={i} style={{ position: "relative", marginBottom: item.last ? 0 : 36 }}>
